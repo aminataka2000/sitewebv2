@@ -1,0 +1,4 @@
+2024/02/19 22:08:18 [alert] 9852#1696: OpenEvent("ngx_master_12800") failed (2: FormatMessage() error:(15100))
+2024/02/19 22:40:41 [alert] 7480#14260: worker process 4336 exited with code C0000142
+2024/02/19 22:40:41 [alert] 7480#14260: could not respawn worker
+2024/02/24 09:19:57 [alert] 11692#5800: OpenEvent("ngx_master_984") failed (2: FormatMessage() error:(15100))
